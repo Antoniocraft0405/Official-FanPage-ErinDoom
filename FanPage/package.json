@@ -1,0 +1,13 @@
+{
+    "name": "FanPage",
+    "version": "1.0.0",
+    "main": "index.html",
+    "scripts": {
+    "start": "node server.js",
+    "build": "webpack"
+    },
+    "dependencies": {
+    "jquery": "^3.6.0",
+    "instagram-follow-button": "^1.3.3"
+    }
+}
